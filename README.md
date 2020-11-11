@@ -23,7 +23,7 @@ This url classification project relied entirely on url strings to train a machin
 •	Reputable websites with clean records are often compromised and leveraged to host malicious content. Features created from domain registration records or reputation lists may 
 be useless in these cases. Blacklists alone are not a 100% reliable resource for url analysis and classification.
 
-•	Information may be unavailable - e.g. urls may go offline, whois information may be incomplete.
+•	Information may be unavailable - e.g. urls may go offline, whois information may be incomplete, brand new url or domain with no reputation data.
 
 
 Data:
