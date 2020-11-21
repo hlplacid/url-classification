@@ -21,8 +21,9 @@ Feature Set 2 achieved beter scores. Natural language processing techniques were
 | Step|Description|File(s)|
 |:----|:----------|:------|
 |Proposal|Full Project Proposal|[report](https://github.com/hlplacid/url-classification/blob/main/URL%20Classification%20Project%20Proposal.pdf)|
-|Data Wrangling|Data notebooks||
-|EDA & Data Stories|Notebooks||
-|Machine Learning|||
+|Data Wrangling|Data notebooks|[code](https://github.com/hlplacid/url-classification/tree/main/Data)|
+|EDA & Data Stories|Notebooks|[code](https://github.com/hlplacid/url-classification/blob/main/EDA%20and%20Data%20Stories.ipynb)|
+|Inferential Statistics|Notebook|[code](https://github.com/hlplacid/url-classification/blob/main/Inferential%20Statistics.ipynb)|
+|Machine Learning|Notebooks|[code]()|
 |Milestone Reports|Milestone Presentations and Reports||
 |Final Reporting|Report and Presentation||
