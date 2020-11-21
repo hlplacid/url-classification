@@ -18,4 +18,11 @@ Feature Set 1 - Several algorithms were explored with the full feature set of 96
 
 Feature Set 2 achieved beter scores. Natural language processing techniques were applied to convert the url tokens into vector representations. Term Frequency–Inverse Document Frequency (TF-IDF) was utilized to measure each token in comparison to the entire set of url tokens in the dataset. Again, multiple algorithms were explored. LinearSVC achieved and Random Forest Classifier tied for the best overall accuracy score of 96.25. The Random Forest Classifier returned the best true positive rate (95.30) for detecting malicious urls with a recall rate of 95.55. LinearSVC returned the best true postive rate for benign (98.35) and phishing (96.49) urls. In the end, three base models were stacked: LinearSVC, Random Forest Classifier and Logistic Regression. A Logistic Regression meta-classifier was fitted using these base model predictions. Slight improvements in all scores were achieved.
 
-
+| Step|Description|File(s)|
+|:----|:----------|:------|
+|Proposal|Full Project Proposal||
+|Data Wrangling|Data notebooks||
+|EDA & Data Stories|Notebooks||
+|Machine Learning|||
+|Milestone Reports|Milestone Presentations and Reports||
+|Final Reporting|Report and Presentation||
