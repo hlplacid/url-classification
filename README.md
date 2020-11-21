@@ -24,6 +24,6 @@ Feature Set 2 achieved beter scores. Natural language processing techniques were
 |Data Wrangling|Data notebooks|[code](https://github.com/hlplacid/url-classification/tree/main/Data)|
 |EDA & Data Stories|Notebooks|[code](https://github.com/hlplacid/url-classification/blob/main/EDA%20and%20Data%20Stories.ipynb)|
 |Inferential Statistics|Notebook|[code](https://github.com/hlplacid/url-classification/blob/main/Inferential%20Statistics.ipynb)|
-|Machine Learning|Notebooks|[lexical featureset code](https://github.com/hlplacid/url-classification/blob/main/Machine%20Learning%20with%20Lexical%20Feature%20Set.ipynb)[td-idf featureset code](https://github.com/hlplacid/url-classification/blob/main/Machine%20Learning%20Using%20TF-IDF%20Scores.ipynb)|
+|Machine Learning|Notebooks|[lexical featureset code](https://github.com/hlplacid/url-classification/blob/main/Machine%20Learning%20with%20Lexical%20Feature%20Set.ipynb), [td-idf featureset code](https://github.com/hlplacid/url-classification/blob/main/Machine%20Learning%20Using%20TF-IDF%20Scores.ipynb)|
 |Milestone Reports|Milestone Presentations and Reports||
 |Final Reporting|Report and Presentation||
